@@ -23,7 +23,9 @@
 
 참고: microbit-control에 sonar은 정밀 초음파 센서를 이용하기위한 것으로 허스키렌즈로 인식을 하면 사용안하셔도 됩니다
 
+#### license
 
+* Mit
 
 #### Files
 
